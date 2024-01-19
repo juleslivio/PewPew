@@ -14,7 +14,9 @@
 
 
  All graphics by Jules Livio (software used Fire Alpaca 2)
+ 
  sounds made w https://www.bfxr.net
+
  Music is SketchyLogic's Map from his NES Shooter Music track.
    SketchyLogic's page : https://opengameart.org/users/sketchylogic
  
