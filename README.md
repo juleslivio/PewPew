@@ -3,6 +3,8 @@
  
  Sandbox shooter type game
 
+ Video demo: https://drive.google.com/file/d/1Ncnhwk1rq3LC17hwgkLl0M8akX8Py97Y/view?usp=sharing
+
  Intended as birthday gift for friends!
 
  Run pewpew_v5.py in the same directory as other files in GitHub repository.
