@@ -5,9 +5,8 @@
 
  Intended as birthday gift for friends!
 
- Run pewpew_v5.py in the same directory as other files in GitHub repository
- 
- May need to spam click buttons to get "About Page" to appear or to begin round, but runs smooth afterwards
+ Run pewpew_v5.py in the same directory as other files in GitHub repository.
+ May need to spam click buttons to get "About Page" to appear or to begin round, but runs smooth afterwards.
 
 
  Enjoy!!!!
